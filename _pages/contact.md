@@ -4,8 +4,6 @@ title: "Contact Us"
 permalink: /contact/
 ---
 
-## Contact Us
-
 <!-- modify this form HTML and place wherever you want your form -->
 {::nomarkdown}
 <form action="https://formspree.io/f/mgerwqdg" method="POST" id="fs-frm" name="simple-contact-form">
