@@ -1,3 +1,4 @@
+![bat-ball](/assets/images/home-page.jpg "Cricket")
 Fairfax Cricket Club was founded in April 1996 by four individuals who worked for the Fairfax County Government. They were Deepak Patel, Harish Patel, Hal Sheikh and Shakeel Yusuf. Spurred by the excitement of the 1996 World Cup, these individuals felt that Cricket could become a feature sport in the County.
 
 Originally members were recruited from George Mason University and George Washington University. Most of the players hailed from India, Pakistan and Sri Lanka. The club met every Sunday at the George Mason Soccer fields. The early beginnings were very humble, softball gloves were used by the wicket keepers and leg guards were shared. A bare patch on the soccer field was marked out as the pitch.
